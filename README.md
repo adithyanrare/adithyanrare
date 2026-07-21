@@ -22,3 +22,14 @@
 [![](https://komarev.com/ghpvc/?username=adithyanrare&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adithyanrare/adithyanrare/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adithyanrare/adithyanrare/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/adithyanrare/adithyanrare/output/github-snake.svg" />
+</picture>
+
+</div>
