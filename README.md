@@ -1,4 +1,95 @@
+<div align="center">
 
+# Hi, I'm Adithyan 👋
+
+### BCA (Science) student @ MIT World Peace University, Pune — building products, not just projects.
+
+I work across **fintech, cybersecurity, and logistics**, turning market research and honest technical experimentation into real, shippable software.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+
+</div>
+
+<br>
+
+## About Me
+
+I'm a BCA student who'd rather ship a working prototype than write another slide deck about one. Most of what I build starts as a genuine question — *does this trading signal actually hold up statistically?*, *can QR phishing be caught with rules before it needs an ML model?*, *is there an underserved angle in local retail software that isn't billing?* — and ends as a Django app with real architecture behind it.
+
+I usually work with a co-founder, split time between building and ground-level market research (yes, that includes physically walking freight yards), and I'm not precious about killing an idea once the data says it's weak.
+
+- 🔭 Currently building an **NSE options trading platform** and a **local-business SaaS** for small Indian retailers
+- 🧠 Into **Indian financial markets** (Nifty, F&O, technical analysis), **cybersecurity**, and **entrepreneurship**
+- 🛠️ Consistent pattern: multi-app Django builds, done properly — architecture first, then code
+- 📊 I test my own trading ideas statistically before trusting them (ORB, XGBoost classifiers, IV vs. realized vol — several didn't survive the test, and that's fine)
+- 🌱 Currently exploring per-stock and pooled XGBoost models for options price prediction
+
+<br>
+
+## 🚀 Featured Projects
+
+### 📈 [NSE Options Trading Platform](#)
+A Django-based trading platform (paper trading only) with **swing** and **intraday scanners**, a **Nifty index options** module, and a dedicated **stock options** app. Integrates the Upstox API, blends confluence-based signals (PCR, Max Pain, OI flow, IV skew) with a from-scratch XGBoost price prediction pipeline trained on 1H candles across 190+ filtered F&O stocks.
+
+`Python` `Django` `XGBoost` `Upstox API` `yfinance`
+
+---
+
+### 🛡️ CyberQR Defense
+Started as a rule-based **QR/URL phishing detector**, now being explored as a startup springboard toward deepfake and KYC-detection tooling. Full ER and data-flow diagrams designed for the expanded scope.
+
+`Python` `Security` `Detection Systems`
+
+---
+
+### 🏪 Local Business SaaS *(in progress)*
+A website-based SaaS for small Indian retailers — clothing shops, supermarkets — deliberately **not** another billing/POS tool. Focused on revenue, time, or cost insights the owner will actually open daily, not passive dashboards.
+
+`SaaS` `Analytics` `Web App`
+
+---
+
+### 🚚 Freight Consolidation Startup *(early stage)*
+An interstate **LTL (less-than-truckload) freight consolidation** model connecting Pune to South India. Backed by ground research at Market Yard and MIDC, with a related exploration into multi-SIM bonded WAN gateways for Indian Railways connectivity.
+
+`Logistics` `Market Research` `Operations`
+
+<br>
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EB0029?style=for-the-badge&logo=xgboost&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=adithyanrare&show_icons=true&theme=default&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adithyanrare&hide_border=true" width="48%" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+**Let's connect** — always up for a conversation about markets, security, or a genuinely useful piece of software.
+
+</div>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adithyanrare) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adithyanrare) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adithyanrare@gmail.com) 
 
