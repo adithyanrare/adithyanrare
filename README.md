@@ -1,19 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=300&section=header&text=ADITHYANRARE&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Fintech%20%C2%B7%20Cybersecurity%20%C2%B7%20Logistics%20%C2%B7%20SaaS&descAlignY=52&descSize=22" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=300&section=header&text=ADITHYAN%20RARE&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Fintech%20%C2%B7%20Cybersecurity%20%C2%B7%20Logistics%20%C2%B7%20SaaS&descAlignY=52&descSize=22" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=900&lines=BCA+Student+%40+MIT+WPU%2C+Pune;5%2B+Real+Products+Shipped%2C+Not+Just+Ideas;Django+%7C+Python+%7C+XGBoost+%7C+Trading+Systems;Fintech.+Security.+Logistics.+Retail+Tech.;Always+Building.+Always+Testing." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=900&lines=BCA+Student+%40+MIT+WPU%2C+Pune;5%2B+Real+Products+Shipped%2C+Not+Just+Ideas;Django+%7C+Python+%7C+XGBoost+%7C+Trading+Systems;Fintech.+Security.+Logistics.+Retail+Tech.;Always+Building.+Always+Testing." alt="Typing SVG" />
 
 <br/>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/adithyanrare)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adithyanrare)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adithyanrare@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139)](#)
+<a href="https://instagram.com/adithyanrare"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://linkedin.com/in/adithyanrare"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:adithyanrare@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=adithyanrare&style=for-the-badge&color=00c9ff&label=PROFILE+VIEWS"/>
-[![Followers](https://img.shields.io/github/followers/adithyanrare?style=for-the-badge&color=00c9ff&labelColor=0d1117)](https://github.com/adithyanrare?tab=followers)
-![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=00c9ff&labelColor=0d1117&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/adithyanrare)
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=adithyanrare&style=for-the-badge&color=00c9ff&label=PROFILE+VIEWS" alt="Profile views"/>
+<a href="https://github.com/adithyanrare?tab=followers"><img src="https://img.shields.io/github/followers/adithyanrare?style=for-the-badge&color=00c9ff&labelColor=0d1117&logo=github&logoColor=white" alt="GitHub followers"/></a>
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=00c9ff&labelColor=0d1117&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fadithyanrare" alt="Public repos"/>
 
 </div>
 
@@ -55,7 +56,7 @@ whoami:
 ### 📈 NSE Options Trading Platform
 Django-based paper-trading system — swing scanner, intraday scanner, Nifty index options, and a stock options app with an XGBoost price-prediction pipeline trained on 190+ filtered F&O stocks.
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![XGBoost](https://img.shields.io/badge/-XGBoost-EB0029?style=flat-square) ![Upstox](https://img.shields.io/badge/-Upstox%20API-1E90FF?style=flat-square)
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/-XGBoost-EB0029?style=flat-square"/> <img src="https://img.shields.io/badge/-Upstox%20API-1E90FF?style=flat-square"/>
 
 </td>
 <td width="50%" valign="top">
@@ -63,7 +64,7 @@ Django-based paper-trading system — swing scanner, intraday scanner, Nifty ind
 ### 🛡️ CyberQR Defense
 Rule-based QR/URL phishing detector, expanding toward deepfake and KYC-detection tooling. Full ER + DFD architecture designed from the ground up.
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Security](https://img.shields.io/badge/-Security-FF3E3E?style=flat-square) ![Detection](https://img.shields.io/badge/-Detection%20Systems-8A2BE2?style=flat-square)
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/-Security-FF3E3E?style=flat-square"/> <img src="https://img.shields.io/badge/-Detection%20Systems-8A2BE2?style=flat-square"/>
 
 </td>
 </tr>
@@ -73,7 +74,7 @@ Rule-based QR/URL phishing detector, expanding toward deepfake and KYC-detection
 ### ✂️ Tailor Shop Billing Suite
 End-to-end software for tailor shops — an **expense management system** paired with a **customer CRM**, together forming a complete billing and shop-management solution.
 
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![CRM](https://img.shields.io/badge/-CRM-00C9FF?style=flat-square) ![Billing](https://img.shields.io/badge/-Billing-2E8B57?style=flat-square)
+<img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/-CRM-00C9FF?style=flat-square"/> <img src="https://img.shields.io/badge/-Billing-2E8B57?style=flat-square"/>
 
 </td>
 <td width="50%" valign="top">
@@ -81,7 +82,7 @@ End-to-end software for tailor shops — an **expense management system** paired
 ### 🏪 Local Business SaaS
 Website-based SaaS for small Indian retailers — deliberately *not* another billing tool for this segment. Insight-first, built to be opened daily.
 
-![SaaS](https://img.shields.io/badge/-SaaS-6A5ACD?style=flat-square) ![Analytics](https://img.shields.io/badge/-Analytics-FF8C00?style=flat-square) ![Web](https://img.shields.io/badge/-Web%20App-20B2AA?style=flat-square)
+<img src="https://img.shields.io/badge/-SaaS-6A5ACD?style=flat-square"/> <img src="https://img.shields.io/badge/-Analytics-FF8C00?style=flat-square"/> <img src="https://img.shields.io/badge/-Web%20App-20B2AA?style=flat-square"/>
 
 </td>
 </tr>
@@ -91,7 +92,7 @@ Website-based SaaS for small Indian retailers — deliberately *not* another bil
 ### 🚚 Freight Consolidation Startup
 Interstate LTL (less-than-truckload) freight consolidation model, Pune → South India — backed by on-ground research at Market Yard and MIDC, plus an adjacent exploration into multi-SIM bonded WAN gateways for Indian Railways connectivity.
 
-![Logistics](https://img.shields.io/badge/-Logistics-CD853F?style=flat-square) ![Market%20Research](https://img.shields.io/badge/-Market%20Research-4682B4?style=flat-square) ![Operations](https://img.shields.io/badge/-Operations-708090?style=flat-square)
+<img src="https://img.shields.io/badge/-Logistics-CD853F?style=flat-square"/> <img src="https://img.shields.io/badge/-Market%20Research-4682B4?style=flat-square"/> <img src="https://img.shields.io/badge/-Operations-708090?style=flat-square"/>
 
 </td>
 </tr>
@@ -103,17 +104,27 @@ Interstate LTL (less-than-truckload) freight consolidation model, Pune → South
 
 ## 💻 Tech Stack
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+<img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+<br/><br/>
 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/sqlite-07405e?style=for-the-badge&logo=sqlite&logoColor=white"/>
 
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<br/><br/>
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black"/> <img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white"/>
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+<br/><br/>
+
+<img src="https://img.shields.io/badge/DigitalOcean-0167ff?style=for-the-badge&logo=digitalOcean&logoColor=white"/> <img src="https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white"/> <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/> <img src="https://img.shields.io/badge/adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white"/>
 
 </div>
 
@@ -123,10 +134,10 @@ Interstate LTL (less-than-truckload) freight consolidation model, Pune → South
 
 ## 📊 GitHub Analytics
 
-<img src="https://github-readme-stats.shion.dev/api?username=adithyanrare&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=adithyanrare&theme=radical&hide_border=false" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=adithyanrare&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=adithyanrare&theme=radical&hide_border=true" width="49%"/>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=adithyanrare&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyanrare&theme=radical&hide_border=true&layout=compact" width="49%"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=adithyanrare&theme=react-dark&hide_border=true" width="49%"/>
 
 </div>
